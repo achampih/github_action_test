@@ -58,7 +58,7 @@ export default function Home() {
           Status: Pipeline bereit für das Deployment.
         </p>
         <span className="bg-green-100 text-green-700 text-xs font-bold px-3 py-1 rounded-full border border-green-200">
-          CI/CD ACTIVE
+          Continuos Integration/Continuos Deployment ACTIVE
         </span>
       </div>
     </main>
